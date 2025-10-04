@@ -1,29 +1,9 @@
-# Contributions
+<img src='logo.png' width='100px' />
 
-## Articles
+**Email**: diego.duarte.s@usach.cl
 
-## Books
+**ORCID**: [0009-0006-5258-5241](https://orcid.org/0009-0006-5258-5241)
 
-## Essays
+**PhilPapers**: [D. Duarte](https://philpeople.org/profiles/d-duarte)
 
-# Readings
-
-## Articles
-
-## Books
-
-## Summaries
-
-# Studies
-
-## Mathematics
-
-## Misc
-
-## Philosophy
-
-## Physics
-
-# University
-
-## Courses
+**X Account**: [@AcademicDuarte](https://x.com/AcademicDuarte)
