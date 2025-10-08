@@ -1,8 +1,8 @@
 <img src='logo.png' width='100px' />
 
-Mathematical Engineering Student, University of Santiago, Chile.
+Undergraduate in Mathematical Engineering. University of Santiago, Chile.
 
-**Email**: diego.duarte.s@usach.cl
+**Email**: 
 
 **ORCID**: [0009-0006-5258-5241](https://orcid.org/0009-0006-5258-5241)
 
